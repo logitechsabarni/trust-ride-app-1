@@ -109,3 +109,7 @@ Thank you.
 I also added a AI prototype of how it would look in future:- 
 
 https://trust-ride-chain.lovable.app/
+
+
+
+https://github.com/logitechsabarni/trust-ride-app- It is the repository for the frontend part like the sign-up authentication and all of how a complete app would like in future. 
