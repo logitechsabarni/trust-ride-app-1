@@ -106,6 +106,6 @@ It’s something you can trust — and something you can verify.
 Thank you.
 
 
-i also added a AI prototype of how it would look in future:- 
+I also added a AI prototype of how it would look in future:- 
 
 https://trust-ride-chain.lovable.app/
