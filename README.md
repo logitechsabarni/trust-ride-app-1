@@ -104,3 +104,8 @@ With Trust Ride, safety is no longer just a promise.
 It’s something you can trust — and something you can verify.
 
 Thank you.
+
+
+i also added a AI prototype of how it would look in future:- 
+
+https://trust-ride-chain.lovable.app/
